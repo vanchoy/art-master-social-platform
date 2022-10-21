@@ -1,0 +1,18 @@
+ion-grid.postcard {
+    --ion-grid-columns: 1;
+}
+ion-grid.grid-col-2 {
+    --ion-grid-columns: 2;
+}
+ion-grid.grid-col-3 {
+    --ion-grid-columns: 3;
+}
+.no-border {
+    background-color: #f9f9f9;
+    border-radius: 0 !important;
+    border: 1px solid #fff !important;
+    box-shadow: none;
+}
+.white-background {
+    background-color: #fff !important;
+}

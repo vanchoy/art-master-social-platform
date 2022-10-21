@@ -1,0 +1,7 @@
+{
+    "name": "art-masters-social-platform",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}
